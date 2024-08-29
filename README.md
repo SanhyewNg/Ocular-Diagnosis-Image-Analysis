@@ -1,5 +1,7 @@
 # Ocular Diagnosis Image Analysis
 
+A project for [**Ocular Technology Group - international (OTG-i)**](https://otgi.co/)
+
 - Developed and tested deep learning models for ocular image segmentation using TensorFlow and PyTorch, enhancing segmentation accuracy and speed.
 - Developed desktop applications to facilitate the deployment and execution of these models, improving usability for medical professionals.
 
@@ -22,5 +24,5 @@
 
 ## Datasets and Trained Models
 
-- [Datasets (Google Drive)]()
-- [Trained Models (Google Drive)]()
+- [Datasets (Google Drive)](https://drive.google.com/drive/folders/1eSI4MITuhjKsBDQwrOzjCRV6y-sNxTuH?usp=drive_link)
+- [Trained Models (Google Drive)](https://drive.google.com/drive/folders/1jlsuaFpH3v4ExA2SV4Vvdou2lx4DJDSY?usp=drive_link)
