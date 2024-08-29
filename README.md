@@ -24,5 +24,5 @@ A project for [**Ocular Technology Group - international (OTG-i)**](https://otgi
 
 ## Datasets and Trained Models
 
-- [Datasets (Google Drive)](https://drive.google.com/drive/folders/1eSI4MITuhjKsBDQwrOzjCRV6y-sNxTuH?usp=drive_link)
-- [Trained Models (Google Drive)](https://drive.google.com/drive/folders/1jlsuaFpH3v4ExA2SV4Vvdou2lx4DJDSY?usp=drive_link)
+- [Datasets (Google Drive)](https://drive.google.com/drive/folders/1RkE1Nk--FKzVLxnjmjbEUvqvEile4XZx?usp=drive_link)
+- [Trained Models (Google Drive)](https://drive.google.com/drive/folders/1thN7XVL6WYKdQzQbDoGufa6METwE3vCk?usp=drive_link)
